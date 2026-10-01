@@ -39,6 +39,6 @@ executive decision framework.
 
 ## 2. Dashboard Preview
 
-<iframe title="project" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ff72f9b6-a0b4-4293-a601-a030e52f71fc&autoAuth=true&ctid=e9ae53be-adf3-47a1-b516-a3fb2017ff88" frameborder="0" allowFullScreen="true"></iframe>
+[**Explore**](https://app.powerbi.com/reportEmbed?reportId=ff72f9b6-a0b4-4293-a601-a030e52f71fc&autoAuth=true&ctid=e9ae53be-adf3-47a1-b516-a3fb2017ff88)
 
 ---
